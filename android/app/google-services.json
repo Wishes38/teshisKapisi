@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66402460564",
+    "project_id": "dgbitirme-ac4b4",
+    "storage_bucket": "dgbitirme-ac4b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66402460564:android:6e1ed7a1dfa30d0cb3a581",
+        "android_client_info": {
+          "package_name": "com.example.dgbitirme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDpqZK1LLS7WP-KVRGp6uEpY4FrNgnGGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
